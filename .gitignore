@@ -1,0 +1,5 @@
+/main
+/_build
+/*.csv
+.merlin
+.ocamlformat
